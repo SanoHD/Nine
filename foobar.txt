@@ -1,0 +1,4 @@
+~#num.1 #num+1 >$num$
+($num$%3) >foo
+($num$%5) >bar
+($num$%15) >foobar
